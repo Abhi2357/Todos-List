@@ -1,7 +1,7 @@
 {
   "name": "todos-list",
-  "homepage": "https://Abhi2357.github.io/Todos-List",
   "version": "0.1.0",
+  "homepage": "https://Abhi2357.github.io/Todos-List",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
