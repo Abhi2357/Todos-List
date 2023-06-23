@@ -31,7 +31,7 @@ export default function Header(props) {
 
 Header.defaultProps ={
     title: "Your Title is Here",
-    searchBar: true
+    searchBar:true
 }
 
 Header.propTypes={
